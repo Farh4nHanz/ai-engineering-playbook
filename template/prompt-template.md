@@ -42,7 +42,8 @@ Provide additional context if needed:
 - Existing behavior:
 ```
 
-> [!IMPORTANT] The context is optional.
+> [!IMPORTANT]
+> The context is optional.
 > Providing detailed context may cause the AI to skip the clarification phase.
 > Remove context if you want the AI to ask questions first.
 
